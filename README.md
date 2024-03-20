@@ -13,3 +13,7 @@ Main features of this build are:
 
 Here are spme photos of assembled synth. Ignore some of the soldered yellow wires - they are there due to PCB design errors in regards of 4 bottom switches. These design errors are fixed.
 
+![Front Controler](resources/beta-photos/front-control.JPG)
+![Front Mixer](resources/beta-photos/front-mixer.JPG)
+![Front Sequencer](resources/beta-photos/front-sequencer.JPG)
+![Back](resources/beta-photos/back-on-white.JPG)
