@@ -755,6 +755,11 @@
       (scale (xyz 0.39 0.39 0.39))
       (rotate (xyz -90 0 180))
     )
+    (model "${KIPRJMOD}/midi-connector.step"
+      (offset (xyz 7.5 12.5 10))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 180))
+    )
   )
 
   (footprint "project-footprints:MultiDIN5" (layer "F.Cu")
@@ -803,6 +808,11 @@
     (model "${KISYS3DMOD}/Connectors.3dshapes/SDS-50J.wrl"
       (offset (xyz 7.365999889 12.44599981 0))
       (scale (xyz 0.39 0.39 0.39))
+      (rotate (xyz -90 0 180))
+    )
+    (model "${KIPRJMOD}/midi-connector.step"
+      (offset (xyz 7.5 12.5 10))
+      (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
     )
   )
@@ -1254,6 +1264,11 @@
       (net 13 "unconnected-(A1-Pad14)") (pinfunction "DEMP") (pintype "input+no_connect") (tstamp e4eab697-75ed-42c7-834e-3f829801e3fb))
     (pad "15" thru_hole circle (at -7.955 -6.985 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 14 "unconnected-(A1-Pad15)") (pinfunction "FLT") (pintype "input+no_connect") (tstamp 2224b9c3-33be-4a2b-844e-d0bfae87aaf6))
+    (model "${KIPRJMOD}/PCM5102-I2S.step"
+      (offset (xyz -15.8 8.5 4))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 180 0 0))
+    )
   )
 
   (footprint "Capacitor_THT:C_Rect_L4.0mm_W2.5mm_P2.50mm" (layer "F.Cu")
@@ -1442,6 +1457,11 @@
     (model "${KISYS3DMOD}/Connectors.3dshapes/SDS-50J.wrl"
       (offset (xyz 7.365999889 12.44599981 0))
       (scale (xyz 0.39 0.39 0.39))
+      (rotate (xyz -90 0 180))
+    )
+    (model "${KIPRJMOD}/midi-connector.step"
+      (offset (xyz 7.5 12.5 10))
+      (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
     )
   )
