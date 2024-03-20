@@ -1,7 +1,7 @@
 # zynthian-mini
 Zynthian Mini is minimalistic approach to build zynthian synthesizer that should be cheap and easy to assemble but still covering most of zynthian synth capabilities including latest 5" screen.
 
-This is not another professional build of a zyntnhian synth. If you are looking for that go to zynthi8an.org and purahcse one directly. This zynthian mini is lucking capabilities such as audio-in, TRS audio connectors, does not come with the best in class DAC for audio out, does not have rigid metal case neither it is fully tested tested .
+This is not another professional build of a zyntnhian synth. If you are looking for that go to [zynthian web site](https://zynthian.org/) and purchase one there. This zynthian mini is lucking capabilities such as audio-in, TRS audio connectors, does not come with the best in class DAC for audio out, does not have rigid metal case neither it is fully tested tested .
 
 Main features of this build are:
 - include all encoders and switches that exist on V4 version
