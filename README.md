@@ -1,8 +1,13 @@
-This repo include KiCad project for design of the PCB (hardware-KiCad folder). Here are the PCB design images:
+This repo include KiCad project for design of the PCB (hardware-KiCad folder). 
+
+For more infromation about what zynthian mini is and how to assemble go to [wiki](https://github.com/sstojos/zynthian-mini/wiki) page. 
+
+Here are the PCB design images:
+
 ![Front](resources/beta-photos/PCB-beta-front.png)
 ![Back](resources/beta-photos/PCB-beta-back.png)
 
-For more infromation about what zynthian mini is and how to assemble go to wiki page. 
+
 
 Here is a list of components requeried to assemble the synth:
 - PCB as per design in hardware-KiCad folder
