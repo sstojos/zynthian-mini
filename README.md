@@ -1,4 +1,4 @@
-This repo include KiCad project for design of the PCB (hardware-KiCad folder). 
+This repo include Zynthian MINI PCB design as a KiCad project (hardware-KiCad folder). 
 
 For more infromation about what zynthian mini is and how to assemble go to [wiki](https://github.com/sstojos/zynthian-mini/wiki) page. 
 
