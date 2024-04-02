@@ -2,7 +2,7 @@ This repo include Zynthian MINI PCB design as a KiCad project (hardware-KiCad fo
 
 For more infromation about what zynthian mini is and how to assemble go to [wiki](https://github.com/sstojos/zynthian-mini/wiki) page. 
 
-Here IS the PCB design images:
+Here are the PCB design images:
 
 ![Front](resources/beta-photos/PCB-beta-front.png)
 ![Back](resources/beta-photos/PCB-beta-back.png)
