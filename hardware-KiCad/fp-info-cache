@@ -1,4 +1,4 @@
-23140399830330911
+23143824459193580
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94758,6 +94758,13 @@ Varistor VF
 0
 2
 2
+my-Library
+aliexpress 5 inch screen
+
+
+0
+0
+0
 project-footprints
 GY-PCM5102
 
@@ -94781,6 +94788,13 @@ rotary encoder
 6
 project-footprints
 Zynthian Logo Mask
+
+
+0
+0
+0
+project-footprints
+aliexpress 5 inch screen
 
 
 0
