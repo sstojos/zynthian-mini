@@ -8977,7 +8977,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical"
+		(property "Footprint" "project-footprints:raspberry pi 4 HAT"
 			(at 3.81 82.55 0)
 			(effects
 				(font
