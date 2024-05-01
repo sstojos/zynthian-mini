@@ -1,32 +1,13 @@
-This repo include Zynthian MINI PCB design as a KiCad project (hardware-KiCad folder). 
+This repo include design details for building PCB and Case for Zynthian MINI V2 synhtisizer. 
 
-For more infromation about what zynthian mini is and how to assemble go to [wiki](https://github.com/sstojos/zynthian-mini/wiki) page. 
+![Zynthian Mini V2](https://github.com/sstojos/zynthian-mini/blob/main/resources/zynthian_mini_v2_top.png)
 
-Here are the PCB design images:
+Zynthian PCB is designed usign KiCad software and can be found  inside hardware-KiCad folder. 
 
-![Front](resources/beta-photos/PCB-beta-front.png)
-![Back](resources/beta-photos/PCB-beta-back.png)
+![Zynthian Mini V2 PCB](https://github.com/sstojos/zynthian-mini/blob/main/resources/pcb_back.png)
 
+Zynthian Case is designed usign FreeCAD or its equivalent Ondsel software and can be found inside CAD folder.
 
+![Zynthian Mini V2 Case](https://github.com/sstojos/zynthian-mini/blob/main/resources/case_top.png)
 
-Here is a list of components requeried to assemble the synth:
-- PCB as per design in hardware-KiCad folder
-- C1: 470u 10V
-- C2,C3,C5,C6:	100n
-- C4: 100u
-- D1: 1N4148
-- 3	MIDI PCB mountable connectors
-- R1,R3,R5,R4,R6: 220R
-- R2: 1k
-- H11L1M
-- 74HCT14
-- GY-PCM5102 I2S sound card
-- C22,C16,C19,C13,C32,C34,C33,C31: 100n
-- MCPMCP23017_SP1
-- 40 pin header male (20x20)
-- Enc2,Enc4,Enc1,Enc3: Rotary Encoder with a switch
-- SW2,SW4,SW1,SW3	push-button	
-- RPI 5" screen	
-- 4 Encoder caps (12mm wide)
-- short 40 pin ribbon cable for connecting the raspbvery pi
-- raspberry pi 4
+For more infromation about what zynthian mini V2 is and how to assemble go to [wiki](https://github.com/sstojos/zynthian-mini/wiki) page. 
